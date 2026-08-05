@@ -1,0 +1,13 @@
+{
+    "model_name": "XGBoost",
+    "decision_threshold": 0.35,
+    "validation_roc_auc": 0.9156,
+    "validation_accuracy_at_050": 0.8605,
+    "validation_precision_at_035": 0.6285,
+    "validation_recall_at_035": 0.794,
+    "validation_f1_at_035": 0.7016,
+    "kaggle_public_score": 0.9124,
+    "kaggle_private_score": 0.91372,
+    "input_feature_count": 19,
+    "random_state": 31
+}
